@@ -122,6 +122,7 @@ the full taxonomy and evidence.
 
 | Date | Track | Paper | Resources |
 |---|---|---|---|
+| 2026-09 | Multi-reference | [**AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation**](https://arxiv.org/abs/2609.35530) | [Code](https://github.com/KuOnoda/AutoRef) |
 | 2026-08 | Intersection | [**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**](https://arxiv.org/abs/2608.20336) | [Project](https://doby-xu.github.io/WithEveryone/) · [Repository](https://github.com/Doby-Xu/WithEveryone) |
 | 2026-08 | Multi-reference benchmark | [**TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation**](https://arxiv.org/abs/2608.16765) | [Project](https://amuseum-whr.github.io/TraceBench/) |
 | 2026-08 | Agentic | [**GenRouter: Unified Workflow Routing for Agentic Image Generation**](https://arxiv.org/abs/2608.16721) | [Code](https://github.com/EnVision-Research/GenRouter) |
@@ -144,6 +145,7 @@ adjacent bridges.
 
 | Paper | Venue / status | Resources |
 |---|---|---|
+| [**AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation**](https://arxiv.org/abs/2609.35530) | arXiv 2026 | [Repository](https://github.com/KuOnoda/AutoRef) |
 | [**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**](https://arxiv.org/abs/2608.20336) | arXiv 2026 | [Project](https://doby-xu.github.io/WithEveryone/) · [Repository](https://github.com/Doby-Xu/WithEveryone) |
 | [**Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation**](https://arxiv.org/abs/2606.26907) | arXiv 2026 | — |
 | [**RS-Gen: A Multi-Stage Agentic Framework for Reasoning and Search-Augmented Image Generation**](https://arxiv.org/abs/2606.23221) | arXiv 2026 | — |
